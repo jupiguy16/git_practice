@@ -1,2 +1,3 @@
 Hello Git and GitHub
 Hi, this is Jesse. I hope you're doing well
+I'm a 15 year old in Finland. I play badminton at a national level (I'm 2nd in my age group) and am very excited to learn programming. This is my very first repository, and the whole point of it is for me to improve in programming, more specifically Git and GitHub. I don't know why anyone would stumble into my profile and look at my repository, but go ahead and hit me up on my instagram: jessesiil. We can make conversation and maybe even work on something together. Right now I'm laerning python at codecademy, but my end goal is to learn c++ and java. If you have have any suggestions, I'm open to everything. Thanks
